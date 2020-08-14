@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>convert.png</file>
+        <file>exit.png</file>
+        <file>open.png</file>
+    </qresource>
+</RCC>
